@@ -3,27 +3,27 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['94779327828']
-global.OwnerNumber = ['94779327828']
-global.ownertag = ['94779327828']
-global.BotName = "Miku"
+global.Owner = ['17245423663']
+global.OwnerNumber = ['17245423663']
+global.ownertag = ['17245423663']
+global.BotName = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
 global.packname = "Miku bot"
-global.author = "By: xAlone"
-global.OwnerName = "xAlone"
+global.author = "By: 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
+global.OwnerName = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
 global.BotSourceCode = "https://github.com/xAloneBOT/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/D9LvrBdQQ31ESkg2EdOjYN"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
-global.location = "Galle ,Srilanka"
+global.location = "Gabon , Libreville"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
